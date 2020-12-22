@@ -1,0 +1,110 @@
+####################### Banner #########################
+banner:
+  title : "Let us solve your critical online business <br> development challenges"
+  image : "images/banner-art.svg"
+  content : "We help Micro and Small Business to go online have there virutal presence 24/7"
+  button:
+    enable : true
+    label : "Contact With Us"
+    link : "contact"
+
+##################### Feature ##########################
+feature:
+  enable : true
+  title : "Something You Need To Know"
+  feature_item:
+    # feature item loop
+    - name : "Secure Code"
+      icon : "ti-pulse"
+      content : "Secure websites with well supported payment gateway"
+      
+    # feature item loop
+    - name : "Custom Package"
+      icon : "ti-package"
+      content : "Get online faster with our custom workflow solutions"
+      
+    # feature item loop
+    - name : "24h Service"
+      icon : "ti-alarm-clock"
+      content : "Online Business Availability 24h"
+      
+    # feature item loop
+    - name : "Value For Money"
+      icon : "ti-credit-card"
+      content : "We understand your business and build solution that fits your needs"
+      
+    # feature item loop
+    - name : "Faster Response"
+      icon : "ti-headphone-alt"
+      content : "We work around the globe to help your business 24/7"
+      
+    # feature item loop
+    - name : "Cloud Support"
+      icon : "ti-cloud-up"
+      content : "We host your services on the cloud makes competitive pricing"
+
+
+######################### Service #####################
+service:
+  enable : false
+  service_item:
+    # service item loop
+    - title : "It is the most advanced digital marketing and it company."
+      images:
+      - "images/service-1.png"
+      - "images/service-2.png"
+      - "images/service-3.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+    # service item loop
+    - title : "It is a privately owned Information and cyber security company"
+      images:
+      - "images/service-1.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+    # service item loop
+    - title : "It’s a team of experienced and skilled people with distributions"
+      images:
+      - "images/service-2.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+    # service item loop
+    - title : "A company standing different from others"
+      images:
+      - "images/service-3.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      button:
+        enable : true
+        label : "Check it out"
+        link : "#"
+        
+################### Screenshot ########################
+screenshot:
+  enable : true
+  title : "Experience the best <br> workflow with us"
+  image : "images/screenshot.svg"
+
+  
+
+##################### Call to action #####################
+call_to_action:
+  enable : true
+  title : "Ready to get started?"
+  image : "images/cta.svg"
+  content : "We are here to help your journey"
+  button:
+    enable : true
+    label : "Contact Us"
+    link : "contact"
