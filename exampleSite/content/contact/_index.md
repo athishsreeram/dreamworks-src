@@ -8,7 +8,7 @@ draft: false
 
 
 ### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+We will understand your need and help us choose best possible solution
 
 * **Phone: +1 289-800-8413** 
 * **Mail: startdreamhear@gmail.com**

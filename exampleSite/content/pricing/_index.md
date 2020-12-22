@@ -49,6 +49,20 @@ business:
     label : "Get started for free"
     link : "#"
 
+digital:
+  name : "Digital Plan"
+  price: "$30"
+  price_per : "month"
+  info : "Best For Digital Marketing"
+  services:
+  - "Email Marketing"
+  - "Customs Adds in Social Media"
+  - "Lead to your business"
+  button:
+    enable : true
+    label : "Get started for free"
+    link : "#"    
+
 call_to_action:
   enable : true
   title : "Need a larger plan?"
