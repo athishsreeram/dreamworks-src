@@ -7,43 +7,54 @@ draft: false
 
 basic:
   name : "Basic Plan"
-  price: "$49"
+  price: "$19"
   price_per : "month"
   info : "Best For Small Individuals"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "Static Website"
+  - "Free Hosting"
+  - "Free SSL enabled"
+  - "Free chat integration"
+  - "Contact API Support"
+  - "One Time Customn Domain purchase based on your need"
   button:
     enable : true
     label : "Get started for free"
     link : "#"
     
 professional:
-  name : "Professional Plan"
+  name : "Standard Plan"
   price: "$49"
   price_per : "month"
   info : "Best For Professionals"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
-  - "Cloud Service"
-  - "Best Dashboard"
+  - "Dynamic Website"
+  - "Free Hosting"
+  - "Free SSL enabled"
+  - "Free chat integration"
+  - "Contact API Support"
+  - "One Time Customn Domain purchase based on your need"
+  - "Custom Application Integrations eg: Sharedrive"
+  - "Custom Payment Gateway Integration support"
   button:
     enable : true
     label : "Get started for free"
     link : "#"
     
 business:
-  name : "Business Plan"
-  price: "$49"
+  name : "Premium Plan"
+  price: "$99"
   price_per : "month"
   info : "Best For Large Individuals"
   services:
-  - "Express Service"
-  - "Customs Clearance"
-  - "Time-Critical Services"
+  - "Dynamic Website & Mobile App"
+  - "Free Hosting"
+  - "Free SSL enabled"
+  - "Free chat integration"
+  - "Contact API Support"
+  - "One Time Customn Domain purchase based on your need"
+  - "Custom Application Integrations eg: Sharedrive"
+  - "Custom Payment Gateway Integration support"
   button:
     enable : true
     label : "Get started for free"
