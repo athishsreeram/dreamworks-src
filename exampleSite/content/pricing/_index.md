@@ -7,8 +7,8 @@ draft: false
 
 basic:
   name : "Basic Plan"
-  price: "$19"
-  price_per : "month"
+  price: "Custom Rates"
+  price_per : "Application"
   info : "Best For Small Individuals"
   services:
   - "Static Website"
@@ -19,13 +19,13 @@ basic:
   - "One Time Customn Domain purchase based on your need"
   button:
     enable : true
-    label : "Get started for free"
+    label : "Contact Us free Quote"
     link : "#"
     
 professional:
   name : "Standard Plan"
-  price: "$49"
-  price_per : "month"
+  price: "Custom Rates"
+  price_per : "Application"
   info : "Best For Professionals"
   services:
   - "Dynamic Website"
@@ -38,13 +38,13 @@ professional:
   - "Custom Payment Gateway Integration support"
   button:
     enable : true
-    label : "Get started for free"
+    label : "Contact Us free Quote"
     link : "#"
     
 business:
   name : "Premium Plan"
-  price: "$99"
-  price_per : "month"
+  price: "Custom Rates"
+  price_per : "Application"
   info : "Best For Large Individuals"
   services:
   - "Dynamic Website & Mobile App"
@@ -57,7 +57,7 @@ business:
   - "Custom Payment Gateway Integration support"
   button:
     enable : true
-    label : "Get started for free"
+    label : "Contact Us free Quote"
     link : "#"
 
 digital:
@@ -76,9 +76,9 @@ digital:
 
 call_to_action:
   enable : true
-  title : "Need a larger plan?"
+  title : "Have a larger plan?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "No problem we can help"
   button:
     enable : true
     label : "Contact Us"
