@@ -6,81 +6,29 @@ description: "This is meta description"
 draft: false
 
 basic:
-  name : "Basic Plan"
+  name: "Basic Plan"
   price: "Custom Rates"
-  price_per : "Application"
-  info : "Best For Small Individuals"
+  price_per: "Application"
+  info: "Best For Small/Medium/Large Individuals"
   services:
-  - "Static Website"
-  - "Free Hosting"
-  - "Free SSL enabled"
-  - "Free chat integration"
-  - "Contact API Support"
-  - "One Time Customn Domain purchase based on your need"
+    - "Help you in your journey What is the problem/ pain point you are trying to solve"
+    - "Find solutions Who will write the cheque to buy your solution?"
+    - "Help you in How is your solution better than the existing solutions? How is it unique?"
+    - "Go to Market Strategy"
+    - "Cost structure Planning"
+    - "Revenue model/Pricing"
   button:
-    enable : true
-    label : "Contact Us free Quote"
-    link : "#"
-    
-professional:
-  name : "Standard Plan"
-  price: "Custom Rates"
-  price_per : "Application"
-  info : "Best For Professionals"
-  services:
-  - "Dynamic Website"
-  - "Free Hosting"
-  - "Free SSL enabled"
-  - "Free chat integration"
-  - "Contact API Support"
-  - "One Time Customn Domain purchase based on your need"
-  - "Custom Application Integrations eg: Sharedrive"
-  - "Custom Payment Gateway Integration support"
-  button:
-    enable : true
-    label : "Contact Us free Quote"
-    link : "#"
-    
-business:
-  name : "Premium Plan"
-  price: "Custom Rates"
-  price_per : "Application"
-  info : "Best For Large Individuals"
-  services:
-  - "Dynamic Website & Mobile App"
-  - "Free Hosting"
-  - "Free SSL enabled"
-  - "Free chat integration"
-  - "Contact API Support"
-  - "One Time Customn Domain purchase based on your need"
-  - "Custom Application Integrations eg: Sharedrive"
-  - "Custom Payment Gateway Integration support"
-  button:
-    enable : true
-    label : "Contact Us free Quote"
-    link : "#"
-
-digital:
-  name : "Digital Plan"
-  price: "$30"
-  price_per : "month"
-  info : "Best For Digital Marketing"
-  services:
-  - "Email Marketing"
-  - "Customs Adds in Social Media"
-  - "Lead to your business"
-  button:
-    enable : true
-    label : "Get started for free"
-    link : "#"    
+    enable: true
+    label: "Contact Us free Quote"
+    link: "#"
 
 call_to_action:
-  enable : true
-  title : "Have a larger plan?"
-  image : "images/cta.svg"
-  content : "No problem we can help"
+  enable: true
+  title: "Have a larger plan?"
+  image: "images/cta.svg"
+  content: "No problem we can help"
   button:
-    enable : true
-    label : "Contact Us"
-    link : "contact"
+    enable: true
+    label: "Contact Us"
+    link: "contact"
 ---
