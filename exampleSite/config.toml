@@ -1,9 +1,9 @@
 ######################## default configuration ####################
-baseURL = "https://athishsreeram.github.io/dreamworks/"
-title = "Dreamworks"
-theme = "dreamworks-src"
-languageName = "En"
+baseURL = "https://dreamworks77.github.io/dreamworks/"
 languageCode = "en-us"
+languageName = "En"
+theme = "dreamworks-src"
+title = "Dreamworks"
 # post pagination
 paginate = "3"
 # post excerpt
@@ -34,91 +34,89 @@ link = "plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 
-
 ############################## navigation ###############################
 
 # main menu
 [[menu.main]]
-name = "Projects"
 URL = "blog"
+name = "Projects"
 weight = 1
 
 [[menu.main]]
-name = "Pricing"
 URL = "pricing"
+name = "Pricing"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
 URL = "contact"
+name = "Contact"
 weight = 3
 
 [[menu.main]]
-name = "FAQ"
 URL = "faq"
+name = "FAQ"
 weight = 4
 
 # footer menu left
 [[menu.footer_left]]
+URL = "#"
 name = "About Us"
-URL = "#"
 
 [[menu.footer_left]]
+URL = "#"
 name = "Quick Start"
-URL = "#"
 
 [[menu.footer_left]]
-name = "Pricing"
 URL = "pricing"
-
+name = "Pricing"
 
 # footer menu middle
 [[menu.footer_middle]]
-name = "Pricing"
 URL = "pricing"
+name = "Pricing"
 
 [[menu.footer_middle]]
+URL = "#"
 name = "Platform"
-URL = "#"
 
 [[menu.footer_middle]]
-name = "Features"
 URL = "#"
+name = "Features"
 
 # footer menu right
 [[menu.footer_right]]
-name = "Privacy Policy"
 URL = "privacy-policy"
+name = "Privacy Policy"
 
 [[menu.footer_right]]
-name = "Terms & Conditions"
 URL = "terms-conditions"
+name = "Terms & Conditions"
 
 [[menu.footer_right]]
-name = "FAQ"
 URL = "faq"
+name = "FAQ"
 
 #################### default parameters ################################
 [params]
 logo = "images/logo1.png"
 logo_width = "200px"
 # Meta data
-description = "This is meta description"
 author = "Themefisher"
+description = "This is meta description"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
 ########### footer content ##########
+footer_content = "Start your online business"
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Start your online business"
 # copyright
 copyright = "Design Dreamworks Inc.,"
 
 # Preloader
 [params.preloader]
-enable = false
+enable = false 
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation buttons
@@ -127,24 +125,23 @@ enable = true
 label = "Get Started"
 link = "contact"
 
-  
 ############################# social site ########################
 [[params.social]]
-title = "facebook"
 icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "#" 
+title = "facebook" 
 
 [[params.social]]
-title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "#" 
+title = "twitter" 
 
 [[params.social]]
-title = "skype"
 icon = "ti-skype" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "#" 
+title = "skype" 
 
 [[params.social]]
-title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "#" 
+title = "linkedin"
